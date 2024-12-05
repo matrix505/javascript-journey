@@ -1,5 +1,7 @@
-Note that JavaScript is case-sensitive 
+Variables :
+var, let, const
 
+Note that JavaScript is case-sensitive 
 <------------ Naming Convention ------------->
 Identifiers are used to name variables and keywords, and functions.
 The rules for legal names are the same in most programming languages.

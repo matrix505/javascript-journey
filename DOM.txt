@@ -1,0 +1,8 @@
+//--> The getElementById() method of the Document interface returns an Element object representing the element whose id property matches the specified string.
+document.getElementById('id');
+
+document.getElementByTagName('tagName'); // Find element by tag name
+document.getElementsByClassName('className') // Find elements by class name
+
+//--> innerHtml is a property that you can get or set changing content in HTML element
+document.getElementById('id').innerHtml;
