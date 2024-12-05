@@ -41,4 +41,8 @@ function calculate() {
   }
   result.innerHTML = temp;
 }
-function reset() {}
+function reset() {
+    number1.value = ""
+    number2.value =""
+    result.innerHTML = ""
+}
